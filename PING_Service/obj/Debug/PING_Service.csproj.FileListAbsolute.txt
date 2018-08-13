@@ -1,0 +1,10 @@
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\bin\Debug\PING_Service.exe.config
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\bin\Debug\PING_Service.exe
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\bin\Debug\PING_Service.pdb
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\obj\Debug\PING_Service.csprojAssemblyReference.cache
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\obj\Debug\PING_Service.ProjectInstaller.resources
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\obj\Debug\PING_Service.Service1.resources
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\obj\Debug\PING_Service.csproj.GenerateResource.cache
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\obj\Debug\PING_Service.csproj.CoreCompileInputs.cache
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\obj\Debug\PING_Service.exe
+c:\users\bedirhan çelik\source\repos\PING_Service\PING_Service\obj\Debug\PING_Service.pdb

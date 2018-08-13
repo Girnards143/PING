@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PING_Service", "PING_Service\PING_Service.csproj", "{9367AB52-B684-4BC8-9D55-91FF3B951CEE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PING_Service_Setup", "PING_Service\PING_Service_Setup\PING_Service_Setup.vdproj", "{93C47C2A-E529-46A9-82AD-D537B0C5842E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9367AB52-B684-4BC8-9D55-91FF3B951CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9367AB52-B684-4BC8-9D55-91FF3B951CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9367AB52-B684-4BC8-9D55-91FF3B951CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9367AB52-B684-4BC8-9D55-91FF3B951CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C47C2A-E529-46A9-82AD-D537B0C5842E}.Debug|Any CPU.ActiveCfg = Debug
+		{93C47C2A-E529-46A9-82AD-D537B0C5842E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE0E2EB-AE38-44FE-959F-61CE563E578D}
+	EndGlobalSection
+EndGlobal
