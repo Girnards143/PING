@@ -1,0 +1,14 @@
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Debug\netcoreapp2.0\win-x64\PING.exe
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Debug\netcoreapp2.0\win-x64\PING.deps.json
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Debug\netcoreapp2.0\win-x64\PING.runtimeconfig.json
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Debug\netcoreapp2.0\win-x64\PING.runtimeconfig.dev.json
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Debug\netcoreapp2.0\win-x64\PING.dll
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Debug\netcoreapp2.0\win-x64\PING.pdb
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Debug\netcoreapp2.0\win-x64\PING.csprojAssemblyReference.cache
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Debug\netcoreapp2.0\win-x64\PING.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Debug\netcoreapp2.0\win-x64\PING.AssemblyInfoInputs.cache
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Debug\netcoreapp2.0\win-x64\PING.AssemblyInfo.cs
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Debug\netcoreapp2.0\win-x64\PING.dll
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Debug\netcoreapp2.0\win-x64\PING.pdb

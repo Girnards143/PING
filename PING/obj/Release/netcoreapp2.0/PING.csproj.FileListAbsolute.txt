@@ -1,0 +1,11 @@
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Release\netcoreapp2.0\PING.deps.json
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Release\netcoreapp2.0\PING.runtimeconfig.json
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Release\netcoreapp2.0\PING.runtimeconfig.dev.json
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Release\netcoreapp2.0\PING.dll
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\bin\Release\netcoreapp2.0\PING.pdb
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Release\netcoreapp2.0\PING.csprojAssemblyReference.cache
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Release\netcoreapp2.0\PING.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Release\netcoreapp2.0\PING.AssemblyInfoInputs.cache
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Release\netcoreapp2.0\PING.AssemblyInfo.cs
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Release\netcoreapp2.0\PING.dll
+C:\Users\Bedirhan Çelik\Desktop\Workshop C#\PING\PING\obj\Release\netcoreapp2.0\PING.pdb
