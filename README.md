@@ -10,3 +10,6 @@ ve deneme sayılarını istatistik tutar.
 olarak .txt dosyalarının kaydedileceği dosya yolunu  ve programın çalışma aralığını gönderir.
 
 -Cihazlar ve program aynı yerel ağda bulunmaktadır.
+
+### EN
+...
