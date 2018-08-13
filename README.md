@@ -8,3 +8,5 @@ ve deneme sayılarını istatistik tutar.
 
 **PING_Service**, PING programının windows işletim sisteminde arkaplanda çalışmasını sağlayan servis programıdır. Program başlarken argüman
 olarak .txt dosyalarının kaydedileceği dosya yolunu  ve programın çalışma aralığını gönderir.
+
+-Cihazlar ve program aynı yerel ağda bulunmaktadır.
