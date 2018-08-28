@@ -33,7 +33,7 @@ namespace PING
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtp.UseDefaultCredentials = false;
                 smtp.EnableSsl = false;
-                smtp.Credentials = new System.Net.NetworkCredential("support@ceibateleicu.com", "f135791");
+                smtp.Credentials = new System.Net.NetworkCredential("support@ceibateleicu.com", "password");
 
                 smtp.Send(ePosta);
             }
@@ -70,7 +70,7 @@ namespace PING
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtp.UseDefaultCredentials = false;
                 smtp.EnableSsl = false;
-                smtp.Credentials = new System.Net.NetworkCredential("support@ceibateleicu.com", "f135791");
+                smtp.Credentials = new System.Net.NetworkCredential("support@ceibateleicu.com", "password");
 
                 smtp.Send(ePosta);
             }
